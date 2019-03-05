@@ -1,0 +1,10 @@
+C:\Users\JT\source\repos\liknayansimulator\liknayansimulator\bin\Debug\liknayansimulator.exe.config
+C:\Users\JT\source\repos\liknayansimulator\liknayansimulator\bin\Debug\liknayansimulator.exe
+C:\Users\JT\source\repos\liknayansimulator\liknayansimulator\bin\Debug\liknayansimulator.pdb
+C:\Users\JT\source\repos\liknayansimulator\liknayansimulator\obj\Debug\liknayansimulator.csprojResolveAssemblyReference.cache
+C:\Users\JT\source\repos\liknayansimulator\liknayansimulator\obj\Debug\liknayansimulator.Form1.resources
+C:\Users\JT\source\repos\liknayansimulator\liknayansimulator\obj\Debug\liknayansimulator.Properties.Resources.resources
+C:\Users\JT\source\repos\liknayansimulator\liknayansimulator\obj\Debug\liknayansimulator.csproj.GenerateResource.cache
+C:\Users\JT\source\repos\liknayansimulator\liknayansimulator\obj\Debug\liknayansimulator.csproj.CoreCompileInputs.cache
+C:\Users\JT\source\repos\liknayansimulator\liknayansimulator\obj\Debug\liknayansimulator.exe
+C:\Users\JT\source\repos\liknayansimulator\liknayansimulator\obj\Debug\liknayansimulator.pdb
